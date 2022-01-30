@@ -1,4 +1,4 @@
-from  stepikApp.py import sumInts
+from stepikApp import sumInts
 
 def test_sumInts():
     assert sumInts(5,5) == 10
